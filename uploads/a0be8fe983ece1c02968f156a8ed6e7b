@@ -1,0 +1,5 @@
+﻿name,sku,vendor,stock,reorder_threshold,unit_price,category,notes
+Hex Bolt M8,HB-M8-001,Fastenal,120,50,0.25,Hardware,Zinc plated
+PVC Pipe 2in,PVC-2IN-002,Grainger,75,30,3.75,Plumbing,10 ft sections
+Electrical Tape,ELEC-TAPE-003,3M,200,100,1.1,Electrical,Black
+Latex Gloves Box,GLV-LTX-004,Staples,30,40,6,Safety,Box of 100
